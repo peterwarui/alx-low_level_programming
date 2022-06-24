@@ -3,6 +3,8 @@
 
 /**
  * main - prints all the arguements it receives
+ * @argc: arguements counter
+ * @argv: arguements values
  * Return: 0.
  */
 int main(int argc, char **argv)

@@ -3,6 +3,8 @@
 
 /**
  * main - program that multiplies two numbers
+ * @argc: arguements counter
+ * @argv: arguements values
  * Return: 0.
  */
 int main(int argc, char **argv)

@@ -4,6 +4,8 @@
 
 /**
  * main - adds positive numbers
+ * @argc: arguements counter
+ * @argv: aguements values
  * Return: 0.
  */
 int main(int argc, char **argv)
